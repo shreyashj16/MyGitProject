@@ -1,8 +1,8 @@
 This is File1 to write hello world...!!!
 
-class myClass{
+class MyClass{
 
-public static void main(){
+public static void main(String args[]){
 
 	System.out.println("Hello World..");
 }
