@@ -1,1 +1,9 @@
 This is File1 to write hello world...!!!
+
+class myClass{
+
+public static void main(){
+
+	System.out.println("Hello World..");
+}
+}
