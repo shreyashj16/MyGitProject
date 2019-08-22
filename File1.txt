@@ -3,8 +3,10 @@ This is File1 to write hello world...!!!
 class MyClass{
 
 	
+
 	private void myMethod(String str){
-		System.out.println(str);
+		System.out.println("Hello "+str);
+
 	}
 public static void main(String args[]){
 
