@@ -6,6 +6,7 @@ class MyClass{
 
 	private void myMethod(String str){
 		System.out.println("Hello "+str);
+sysyoUO
 
 	}
 public static void main(String args[]){
